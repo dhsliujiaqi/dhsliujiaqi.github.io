@@ -1,1 +1,21 @@
-hi this is a ccs file lol
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="style.css">
+  <body{background-color: ##ffffcc;}>
+<h1> All About Me</h1>
+<title> This is my website </title>
+<img src="photo.jpg"/>
+<p>
+My name is Liu Jiaqi. I am a student of Dunman High School. Currently in secondary 1. </p>
+<p>
+Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>. </p>
+<br>
+<p>Here are the things I love to do the most : </p> 
+<ul>
+<li>BTS</li>
+<a href="https://www.redbubble.com/people/namjoonstrash/works/24052826-bts-aesthetic?p=laptop-skin"></a>
+<li>Travelling and Exploring Places</li>
+
+</ul>
+</body>
+</html>
